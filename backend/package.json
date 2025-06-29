@@ -1,0 +1,20 @@
+{
+  "name": "church-site-kit-backend",
+  "version": "1.0.0",
+  "description": "An easy deployable template for interactive church sites.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Michael Ames Jr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.7"
+  }
+}
